@@ -1,4 +1,5 @@
 # Practica 2 2o Parcial IS Calderón
+![Logo UDL](img/logo.png)
 
 ## Ejercicio de GITHUB
 
