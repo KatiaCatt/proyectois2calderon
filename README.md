@@ -1,11 +1,10 @@
 # Practica 2 2o Parcial IS Calderón
-![Logo UDL](img/logo.png)
 
 ## Ejercicio de GITHUB
 
 ### Ingeniería de software Calderón UDL
 
-""Fases del ciclo de vida de desarrollo de software""
+''Fases del ciclo de vida de desarrollo de software''
 <!-- -->
 1. Planeacion
 2. Analisis
